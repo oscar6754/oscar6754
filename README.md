@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/óscar-sotelo-solla-97709b260">
+  <a href="https://www.linkedin.com/in/oscar-sotelo-97709b260">
     <img src="https://img.shields.io/badge/LinkedIn-Óscar%20Sotelo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:oscarsot39@gmail.com">
